@@ -9,7 +9,7 @@ export function Activities() {
           <span className="text-xs text-zinc-500">Sábado</span>
         </div>
 
-        <p className="text-zinc-500 text-sm">Nenhuma atividade cadastrada nessa data.</p>
+        <p className="text-zinc-500 text-sm">Nenhuma atividade cadastrada nessa data..</p>
       </div>
 
       <div className="space-y-2.5">
